@@ -1,0 +1,59 @@
+.banner {
+  background-color: #151515;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(180deg, white 0%, plum 100%);
+  flex-direction: column;
+}
+
+.banner h2 {
+  font-size: 3em;
+  font-weight: 700;
+  color: white;
+}
+
+.mueve {
+  position: sticky;
+  top: 15px;
+}
+
+.main2 {
+  height: 87vh;
+  background: plum;
+  display: flex;
+  flex-direction: column;
+  color: grey;
+}
+
+
+.enl a {
+  outline: none;
+  text-decoration: none;
+  padding-top: 20px;
+  color: grey;
+}
+
+.enl a:hover {
+  color: #864094;
+}
+
+
+
+.enl {
+  position: sticky;
+  top: 15px;
+}
+
+.espaciado {
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+.espaciado2 {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
